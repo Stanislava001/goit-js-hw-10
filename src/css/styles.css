@@ -18,3 +18,22 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.country__list-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 0;
+}
+
+.country__img-container {
+  margin-right: 10px;
+}
+
+.country__title {
+  font-size: 20px;
+}
+
+.country-card__title {
+  font-size: 30px;
+}
